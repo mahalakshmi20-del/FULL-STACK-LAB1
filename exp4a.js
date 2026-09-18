@@ -1,0 +1,1 @@
+clone1.log("fsdlab1");
